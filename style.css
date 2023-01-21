@@ -2,12 +2,17 @@
     margin: 0;
     padding: 0;
     font-family: sana-serif;
+    
+}
+body{
+    background-image: url('backgroud.png');
+
 }
 .container{
     min-height: 100vh;
     width: 100%;
     background-color: #485461;
-    background-image: url(' https://cdn.discordapp.com/attachments/986187066884902944/1066343253026283580/backgroud.png');
+    
         
     overflow-x: hidden;
     background-attachment: fixed;
